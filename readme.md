@@ -2,7 +2,7 @@
 
 Responsive Landing Page Website to Celebrate the 79th Indonesian Independence Day. This project highlights the spirit of unity and showcases various events and competition.
 
-<a href="#"><strong>➥ Live Demo</strong></a>
+<a href="https://indonesia-independence-day.vercel.app/"><strong> ➥ Live Demo</strong></a>
 
 ![Indonesia Independence Day - Demo](./assets/images/demo.jpg)
 
