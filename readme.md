@@ -72,7 +72,7 @@ Open your browser and access the application at http://localhost:3000 (or the po
 Contributions are always welcome!
 Any contributions you make are greatly appreciated.
 
-See `/contributing.md` for ways to get started.
+See `contributing.md` for ways to get started.
 
 ## Contact
 
